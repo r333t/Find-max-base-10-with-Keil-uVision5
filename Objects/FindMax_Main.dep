@@ -1,0 +1,3 @@
+Dependencies for Project 'FindMax', Target 'Main': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\main.s)(0x622B3AAE)(--target=arm-arm-none-eabi -mcpu=cortex-m0 -masm=auto -c-mlittle-endian -gdwarf-4-IC:/Users/dev/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/Device/ARM/ARMCM0/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"ARMCM0 SETA 1"-o ./objects/main.o)
